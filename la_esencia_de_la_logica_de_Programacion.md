@@ -11,7 +11,7 @@
 5. Fin.
 
 
-### 2.Desarrollar un algoritmo que permita entrar una casa que esta con llave.
+### 2.Desarrollar un algoritmo que permita entrar a una casa que esta con llave.
 
 1. Inicio.
 2. Saber si tengo la llave para abrir la casa.  
