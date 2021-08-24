@@ -77,3 +77,35 @@
 7. Esperar que la yema este al punto que usted dese.
 8. Apagar la estufa.
 9. Fin.
+
+### 7. Desarrollar un algoritmo que permita mirar por un telescopio.
+
+1. Inicio.
+2. Conseguir un telescopio.
+3. Apuntar el telescopio al cuerpo celeste que desee observar.
+4. Mirar por la lente del mismo.
+5. Ajustar el telescopio hasta que se vea lo mas nitido posible.
+6. Fin
+
+### 8. Desarrollar un algoritmo que permita botar la basura.
+
+1. Inicio.
+2. Recojer la basura de alrededor.
+3. Entrarlo todo en una sola funda.  
+3.1. Si no hay funda, conseguir un recipiente en el que pueda hechar la basura (pasar al paso 6).
+4. Amarrar la funda.
+5. Ir al punto de reciclaje o bote de basura mas cercano.
+6. Botar la basura dentro del punto de reciclaje o bote de basura.
+7. Fin.
+
+### 9. Desarrollar un algoritmo que permita tomar un baño.
+
+1. Inicio.
+2. Ir al baño o corriente de agua mas cercana.
+3. Quitarse toda la ropa.
+4. Entrar al agua o hecharse agua.
+4.1. Si tiene jabon proceda a usarlo sobandoselo por todo el cuerpo.
+7 Estregarse con alguna ropa o un estropajo.
+8. Echarse agua hasta que toda suciedad y mugre desaparesca.
+8.1 Si aun tiene mugre o suciedad, proceda a repetir el paso 4.1.
+9. Fin.
