@@ -34,3 +34,46 @@
 2. Buscar a alguien para dar el beso.  
 3. Pegar sus labios con los de usted.  
 4. Fin
+
+### 4. Desarrollar un algoritmo que permita empacar un regalo.
+
+1. Inicio.
+2. Conseguir una caja en la cual el regalo encaje.
+3. Entrar el Regalo en la caja.
+4. Envolver el regalo con el papel decorativo.
+5. Pegar con cinta adhesiva los extremos del papel.
+6. Envolver el regalo con un listo lo suficiente mente largo para hacerle un moño.
+7. Fin
+
+### 5. Desarrollar un algoritmo que permita encender un vehículo.
+
++ **Si el auto enciende por llave**
+
+1. Inicio.
+2. Bucar la llave del automovil.
+3. Abrirla puerta del lado del conductor.
+4. Insertar la llave del auto en el cerrojo al lado del bolante.
+5. pisar el freno.
+6. Darle vuelta asia alante a la llave.
+7. Hasta que encienda.
+8. Fin
+
++ **Si el auto enciende por boton**
+
+1. Inicio.
+2. Abrirla puerta del lado del conductor.
+3. Precionar el freno.
+4. Precionar el boton de encendido.
+5. Fin.
+
+### 6. Desarrollar un algoritmo que permita freir un huevo.
+
+1. Inicio.
+2. Encender la estufa.
+3. Colocar el sarten en la ornilla encendida.
+4. Colocar una porción pequeña de aceite en el sarten.
+5. Romper el cascaron del huevo y hechar su liquido directamente al sarten.
+6. Botar el cascaron a la basura.
+7. Esperar que la yema este al punto que usted dese.
+8. Apagar la estufa.
+9. Fin.
