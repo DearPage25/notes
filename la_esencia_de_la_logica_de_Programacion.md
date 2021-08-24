@@ -28,7 +28,7 @@
 6.1 Si es así entrar por ella a la casa.
 7. Fin
 
-### 3. Desarrollar un algoritmo que permita adquirir una revista.
+### 3. Desarrollar un algoritmo que permita dar un beso.
 
 1. Inicio.  
 2. Buscar a alguien para dar el beso.  
