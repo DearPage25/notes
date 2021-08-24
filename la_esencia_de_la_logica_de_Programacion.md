@@ -32,5 +32,5 @@
 
 1. Inicio.  
 2. Buscar a alguien para dar el beso.  
-3. Pegar sus labios con los nuestos.  
+3. Pegar sus labios con los de usted.  
 4. Fin
