@@ -103,9 +103,9 @@
 1. Inicio.
 2. Ir al baño o corriente de agua mas cercana.
 3. Quitarse toda la ropa.
-4. Entrar al agua o hecharse agua.
+4. Entrar al agua o hecharse agua.  
 4.1. Si tiene jabon proceda a usarlo sobandoselo por todo el cuerpo.
-7 Estregarse con alguna ropa o un estropajo.
-8. Echarse agua hasta que toda suciedad y mugre desaparesca.
-8.1 Si aun tiene mugre o suciedad, proceda a repetir el paso 4.1.
-9. Fin.
+5. Estregarse con alguna ropa o un estropajo.
+6. Echarse agua hasta que toda suciedad y mugre desaparesca.  
+6.1 Si aun tiene mugre o suciedad, proceda a repetir el paso 4.1.
+7. Fin.
